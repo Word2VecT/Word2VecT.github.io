@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Qizhi Pei (裴启智 in Chinese) is currently a second year Ph.D. student at [Gaoling School of Artificial Intelligence (GSAI)](http://ai.ruc.edu.cn/) in [Renmin University of China (RUC)](https://www.ruc.edu.cn/), supervised by [Prof. Rui Yan](https://gsai.ruc.edu.cn/addons/teacher/index/info.html?user_id=0&ruccode=20200243&ln=cn). He got the B.S. degree from [School of Computer Science and Technology](https://cs.ustc.edu.cn/), [Universy of Science and Technology of China (USTC)](https://www.ustc.edu.cn/) in 2022. He currently is an intern of [Microsoft Research AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/), mentored by [Dr. Lijun Wu](https://apeterswu.github.io/). He also works closely with [Dr. Yingce Xia](https://www.microsoft.com/en-us/research/people/yinxia/) and [Kaiyuan Gao](https://github.com/KyGao).
+Qizhi Pei (裴启智 in Chinese) is currently a second year Ph.D. student at the [ALOHA group](https://aloha.show) of [Gaoling School of Artificial Intelligence (GSAI)](http://ai.ruc.edu.cn/) in [Renmin University of China (RUC)](https://www.ruc.edu.cn/), supervised by [Prof. Rui Yan](https://gsai.ruc.edu.cn/addons/teacher/index/info.html?user_id=0&ruccode=20200243&ln=cn). He got the B.S. degree from [School of Computer Science and Technology](https://cs.ustc.edu.cn/), [Universy of Science and Technology of China (USTC)](https://www.ustc.edu.cn/) in 2022. He currently is an intern of [Microsoft Research AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/) and a member of [AI4Science Research Project](https://ai4sci-research.github.io), mentored by [Dr. Lijun Wu](https://apeterswu.github.io/). He also works closely with [Dr. Yingce Xia](https://www.microsoft.com/en-us/research/people/yinxia/) and [Kaiyuan Gao](https://github.com/KyGao).
 
 His researches focus on AI4science, geometric deep learning, and multi-modal learning for biomolecule. 
 
@@ -27,6 +27,7 @@ His researches focus on AI4science, geometric deep learning, and multi-modal lea
 
 
 # 🔥 News
+- *2024.04*: &nbsp; One paper about docking are submitted to Arxiv.
 - *2024.02*: &nbsp; Two papers about cross-modal learning for biomolecule are submitted to Arxiv.
 - *2023.10*: &nbsp;🎉🎉 One paper accepted by EMNLP 2023. Thanks for all collaborators!
 - *2023.10*: &nbsp;🎉🎉 One paper accepted by Briefings in Bioinformatics 2023. Thanks for all collaborators!
@@ -80,6 +81,16 @@ His researches focus on AI4science, geometric deep learning, and multi-modal lea
 **Qizhi Pei**, Lijun Wu, Kaiyuan Gao, Jinhua Zhu, Yue Wang, Zun Wang, Tao Qin, Rui Yan
 
 [**Project**](https://github.com/QizhiPei/Awesome-Biomolecule-Language-Cross-Modeling) \| [![](https://img.shields.io/github/stars/QizhiPei/Awesome-Biomolecule-Language-Cross-Modeling?style=social&label=Code+Stars)](https://github.com/QizhiPei/Awesome-Biomolecule-Language-Cross-Modeling)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/fabind_plus.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FABind+: Enhancing Molecular Docking through Improved Pocket Prediction and Pose Generation](https://arxiv.org/abs/2403.20261) \\
+Kaiyuan Gao, **Qizhi Pei**, Jinhua Zhu, Tao Qin, Kun He, Lijun Wu
+
+[**Project**](https://github.com/QizhiPei/FABind) \| [![](https://img.shields.io/github/stars/QizhiPei/FABind?style=social&label=Code+Stars)](https://github.com/QizhiPei/FABind)
 </div>
 </div>
 
