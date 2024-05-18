@@ -27,11 +27,12 @@ His researches focus on AI4science, geometric deep learning, and multi-modal lea
 
 
 # 🔥 News
-- *2024.04*: &nbsp; One paper about docking are submitted to Arxiv.
+- *2024.05*: &nbsp;🎉🎉 BioT5+ is accepted by ACL 2023 (Findings). Thanks for all collaborators!
+- *2024.04*: &nbsp; One paper about docking is submitted to Arxiv.
 - *2024.02*: &nbsp; Two papers about cross-modal learning for biomolecule are submitted to Arxiv.
-- *2023.10*: &nbsp;🎉🎉 One paper accepted by EMNLP 2023. Thanks for all collaborators!
-- *2023.10*: &nbsp;🎉🎉 One paper accepted by Briefings in Bioinformatics 2023. Thanks for all collaborators!
-- *2023.09*: &nbsp;🎉🎉 One paper accepted by NeurIPS 2023. Thanks for all collaborators!
+- *2023.10*: &nbsp;🎉🎉 BioT5 is accepted by EMNLP 2023. Thanks for all collaborators!
+- *2023.10*: &nbsp;🎉🎉 SSM-DTA is accepted by Briefings in Bioinformatics 2023. Thanks for all collaborators!
+- *2023.09*: &nbsp;🎉🎉 FABind is accepted by NeurIPS 2023. Thanks for all collaborators!
 
 # 📝 Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/fabind.png' alt="sym" width="100%"></div></div>
@@ -54,6 +55,16 @@ His researches focus on AI4science, geometric deep learning, and multi-modal lea
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 (Findings)</div><img src='images/biot5_plus.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[BioT5+: Towards Generalized Biological Understanding with IUPAC Integration and Multi-task Tuning](https://arxiv.org/abs/2402.17810) \\
+**Qizhi Pei**, Lijun Wu, Kaiyuan Gao, Xiaozhuan Liang, Yin Fang, Jinhua Zhu, Shufang Xie, Tao Qin, Rui Yan
+
+[**Project**](https://github.com/QizhiPei/BioT5) \| [![](https://img.shields.io/github/stars/QizhiPei/BioT5?style=social&label=Code+Stars)](https://github.com/QizhiPei/BioT5)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Briefings in Bioinformatics 2023</div><img src='images/ssm_dta.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -61,16 +72,6 @@ His researches focus on AI4science, geometric deep learning, and multi-modal lea
 **Qizhi Pei**, Lijun Wu, Jinhua Zhu, Yingce Xia, Shufang Xie, Tao Qin, Haiguang Liu, Tie-Yan Liu, Rui Yan
 
 [**Project**](https://github.com/QizhiPei/SSM-DTA) \| [![](https://img.shields.io/github/stars/QizhiPei/SSM-DTA?style=social&label=Code+Stars)](https://github.com/QizhiPei/SSM-DTA)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/biot5_plus.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[BioT5+: Towards Generalized Biological Understanding with IUPAC Integration and Multi-task Tuning](https://arxiv.org/abs/2402.17810) \\
-**Qizhi Pei**, Lijun Wu, Kaiyuan Gao, Xiaozhuan Liang, Yin Fang, Jinhua Zhu, Shufang Xie, Tao Qin, Rui Yan
-
-[**Project**](https://github.com/QizhiPei/BioT5) \| [![](https://img.shields.io/github/stars/QizhiPei/BioT5?style=social&label=Code+Stars)](https://github.com/QizhiPei/BioT5)
 </div>
 </div>
 
