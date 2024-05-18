@@ -27,7 +27,7 @@ His researches focus on AI4science, geometric deep learning, and multi-modal lea
 
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉 BioT5+ is accepted by ACL 2023 (Findings). Thanks for all collaborators!
+- *2024.05*: &nbsp;🎉🎉 BioT5+ is accepted by ACL 2024 (Findings). Thanks for all collaborators!
 - *2024.04*: &nbsp; One paper about docking is submitted to Arxiv.
 - *2024.02*: &nbsp; Two papers about cross-modal learning for biomolecule are submitted to Arxiv.
 - *2023.10*: &nbsp;🎉🎉 BioT5 is accepted by EMNLP 2023. Thanks for all collaborators!
