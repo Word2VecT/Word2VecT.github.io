@@ -27,6 +27,7 @@ His researches focus on AI4science, geometric deep learning, and multi-modal lea
 
 
 # 🔥 News
+- *2024.06*: &nbsp; One paper about cross-modal learning for molecule is submitted to Arxiv.
 - *2024.05*: &nbsp;🎉🎉 BioT5+ is accepted by ACL 2024 (Findings). Thanks for all collaborators!
 - *2024.04*: &nbsp; One paper about docking is submitted to Arxiv.
 - *2024.02*: &nbsp; Two papers about cross-modal learning for biomolecule are submitted to Arxiv.
@@ -75,6 +76,15 @@ His researches focus on AI4science, geometric deep learning, and multi-modal lea
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/3d_molt5.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[3D-MolT5: Towards Unified 3D Molecule-Text Modeling with 3D Molecular Tokenization](https://arxiv.org/abs/2406.05797) \\
+**Qizhi Pei**, Lijun Wu, Kaiyuan Gao, Jinhua Zhu, Rui Yan
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/cmbl_survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -120,5 +130,5 @@ Kaiyuan Gao, Sunan He, Zhenyu He, Jiacheng Lin, **Qizhi Pei**, Jie Shao, Wei Zha
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2023.07 - Now*, [Microsoft Research AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/), Beijing, China.
+- *2023.07 - 2024.06*, [Microsoft Research AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/), Beijing, China.
 - *2021.07 - 2023.01*, [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), Beijing, China.
