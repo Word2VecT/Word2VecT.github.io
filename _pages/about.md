@@ -31,7 +31,7 @@ His researches focus on AI4science, geometric deep learning, and multi-modal lea
   - 🥇 1st Place in the Text-based Molecule Generation Track.
   - 🥈 2nd Place in the Molecular Captioning Track.
   - Oral presentation in the workshop.
-- *2024.07*: &nbsp;🎉🎉 kNN-DTA is accepted by CIKM 2024. Thanks for all collaborators!
+- *2024.07*: &nbsp;🎉🎉 [kNN-DTA](https://arxiv.org/abs/2407.15202) is accepted by CIKM 2024. Thanks for all collaborators!
 - *2024.06*: &nbsp; [3D-MolT5](https://arxiv.org/abs/2406.05797) is submitted to Arxiv.
 - *2024.05*: &nbsp;🎉🎉 [BioT5+](https://arxiv.org/abs/2402.17810) is accepted by ACL 2024 (Findings). Thanks for all collaborators!
 - *2024.03*: &nbsp; [FABind+](https://arxiv.org/abs/2403.20261) is submitted to Arxiv.
@@ -84,7 +84,7 @@ His researches focus on AI4science, geometric deep learning, and multi-modal lea
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2024</div><img src='images/knn_dta.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Exploiting Pre-trained Models for Drug Target Affinity Prediction with Nearest Neighbors](https://qizhipei.github.io/) \\
+[Exploiting Pre-trained Models for Drug Target Affinity Prediction with Nearest Neighbors](https://arxiv.org/abs/2407.15202) \\
 **Qizhi Pei**(co-first author), Lijun Wu, Zhenyu He, Jinhua Zhu, Yingce Xia, Shufang Xie, Rui Yan
 
 </div>
