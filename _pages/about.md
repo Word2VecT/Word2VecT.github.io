@@ -30,7 +30,7 @@ His researches focus on AI4science, geometric deep learning, and multi-modal lea
 - *2024.07*: &nbsp;🎉🎉 The enhanced version of BioT5+ achieves remarkable results in [Language + Molecule @ ACL2024 Workshop/Competition](https://language-plus-molecules.github.io/#leaderboard): 
   - 🥇 1st Place in the Text-based Molecule Generation Track.
   - 🥈 2nd Place in the Molecular Captioning Track.
-  - Oral presentation in the workshop.
+  - 🎤 Oral presentation in the workshop.
 - *2024.07*: &nbsp;🎉🎉 [kNN-DTA](https://arxiv.org/abs/2407.15202) is accepted by CIKM 2024. Thanks for all collaborators!
 - *2024.06*: &nbsp; [3D-MolT5](https://arxiv.org/abs/2406.05797) is submitted to Arxiv.
 - *2024.05*: &nbsp;🎉🎉 [BioT5+](https://arxiv.org/abs/2402.17810) is accepted by ACL 2024 (Findings). Thanks for all collaborators!
