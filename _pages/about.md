@@ -30,7 +30,7 @@ His researches focus on AI4science, geometric deep learning, and multi-modal lea
 - *2024.07*: &nbsp;🎉🎉 The enhanced version of BioT5+ achieves remarkable results in [Language + Molecule @ ACL2024 Workshop/Competition](https://language-plus-molecules.github.io/#leaderboard): 
   - 🥇 1st Place in the Text-based Molecule Generation Track.
   - 🥈 2nd Place in the Molecular Captioning Track.
-  - 🎤 Oral presentation in the workshop.
+  - 🎤 [Oral presentation](https://openreview.net/forum?id=Fib0IJt8YW) in the workshop.
 - *2024.07*: &nbsp;🎉🎉 [kNN-DTA](https://arxiv.org/abs/2407.15202) is accepted by CIKM 2024. Thanks for all collaborators!
 - *2024.06*: &nbsp; [3D-MolT5](https://arxiv.org/abs/2406.05797) is submitted to Arxiv.
 - *2024.05*: &nbsp;🎉🎉 [BioT5+](https://arxiv.org/abs/2402.17810) is accepted by ACL 2024 (Findings). Thanks for all collaborators!
@@ -75,7 +75,7 @@ His researches focus on AI4science, geometric deep learning, and multi-modal lea
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Language + Molecules @ ACL 2024 Workshop (Oral)</div><img src='images/lpm24_workshop.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Enhanced BioT5+ for Molecule-Text Translation: A Three-Stage Approach with Data Distillation, Diverse Training, and Voting Ensemble](https://language-plus-molecules.github.io/#paper) \\
+[Enhanced BioT5+ for Molecule-Text Translation: A Three-Stage Approach with Data Distillation, Diverse Training, and Voting Ensemble](https://openreview.net/forum?id=Fib0IJt8YW) \\
 **Qizhi Pei**, Lijun Wu, Kaiyuan Gao, Jinhua Zhu, Rui Yan
 
 </div>
