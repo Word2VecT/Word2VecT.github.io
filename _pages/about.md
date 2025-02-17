@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Qizhi Pei (裴启智 in Chinese) is currently a second year Ph.D. student at the [ALOHA group](https://aloha.show) of [Gaoling School of Artificial Intelligence (GSAI)](http://ai.ruc.edu.cn/) in [Renmin University of China (RUC)](https://www.ruc.edu.cn/), supervised by [Prof. Rui Yan](https://gsai.ruc.edu.cn/ruiyan). He got the B.S. degree from [School of Computer Science and Technology](https://cs.ustc.edu.cn/), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/) in 2022. He currently is an intern of [Shanghai Artificial Intelligent Laboratory](https://www.shlab.org.cn/), mentored by [Dr. Lijun Wu](https://apeterswu.github.io/). He is also a member of [AI4Science Research Project](https://ai4sci-research.github.io). He also works closely with [Dr. Yingce Xia](https://www.microsoft.com/en-us/research/people/yinxia/) and [Kaiyuan Gao](https://github.com/KyGao).
+Qizhi Pei (裴启智 in Chinese) is currently a third year Ph.D. student at the [ALOHA group](https://aloha.show) of [Gaoling School of Artificial Intelligence (GSAI)](http://ai.ruc.edu.cn/) in [Renmin University of China (RUC)](https://www.ruc.edu.cn/), supervised by [Prof. Rui Yan](https://gsai.ruc.edu.cn/ruiyan). He got the B.S. degree from [School of Computer Science and Technology](https://cs.ustc.edu.cn/), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/) in 2022. He currently is an intern of [Shanghai Artificial Intelligent Laboratory](https://www.shlab.org.cn/), mentored by [Dr. Lijun Wu](https://apeterswu.github.io/). He is also a member of [AI4Science Research Project](https://ai4sci-research.github.io).
 
-His researches focus on AI4science, geometric deep learning, and multi-modal learning for biomolecule. 
+His researches focus on AI4science, multi-modal learning for molecule, and data synthesis for NLP.
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat. -->
 
@@ -27,11 +27,15 @@ His researches focus on AI4science, geometric deep learning, and multi-modal lea
 
 
 # 🔥 News
+- *2025.02*: &nbsp;🔥🔥 [NatureLM](https://arxiv.org/abs/2502.07527) is made public. See [project page](https://naturelm.github.io/) for more information.
+- *2025.01*: &nbsp;🎉🎉 [3D-MolT5](https://openreview.net/forum?id=eGqQyTAbXC) is accepted by ICLR 2025. Thanks for all collaborators!
+- *2024.12*: &nbsp;🔥🔥 [Mol-StrucTok](https://arxiv.org/abs/2412.01564) is submitted to Arxiv.
+- *2024.11*: &nbsp;🎉🎉 [FABind+](https://arxiv.org/abs/2403.20261) is accepted by KDD 2025. Congrats to Kaiyuan!
 - *2024.07*: &nbsp;🎉🎉 The enhanced version of BioT5+ achieves remarkable results in [Language + Molecule @ ACL2024 Workshop/Competition](https://language-plus-molecules.github.io/#leaderboard): 
   - 🥇 1st Place in the Text-based Molecule Generation Track.
   - 🥈 2nd Place in the Molecular Captioning Track.
   - 🎤 [Oral presentation](https://openreview.net/forum?id=Fib0IJt8YW) in the workshop.
-- *2024.07*: &nbsp;🎉🎉 [kNN-DTA](https://arxiv.org/abs/2407.15202) is accepted by CIKM 2024. Thanks for all collaborators!
+- *2024.07*: &nbsp;🎉🎉 [kNN-DTA](https://dl.acm.org/doi/abs/10.1145/3627673.3679704) is accepted by CIKM 2024. Thanks for all collaborators!
 - *2024.06*: &nbsp; [3D-MolT5](https://arxiv.org/abs/2406.05797) is submitted to Arxiv.
 - *2024.05*: &nbsp;🎉🎉 [BioT5+](https://arxiv.org/abs/2402.17810) is accepted by ACL 2024 (Findings). Thanks for all collaborators!
 - *2024.03*: &nbsp; [FABind+](https://arxiv.org/abs/2403.20261) is submitted to Arxiv.
@@ -41,6 +45,15 @@ His researches focus on AI4science, geometric deep learning, and multi-modal lea
 - *2023.09*: &nbsp;🎉🎉 [FABind](https://arxiv.org/pdf/2310.06763.pdf) is accepted by NeurIPS 2023. Thanks for all collaborators!
 
 # 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/3d_molt5.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[3D-MolT5: Leveraging Discrete Structural Information for Molecule-Text Modeling](https://openreview.net/forum?id=eGqQyTAbXC) \\
+**Qizhi Pei**, Lijun Wu, Kaiyuan Gao, Jinhua Zhu, Rui Yan
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 (Findings)</div><img src='images/biot5_plus.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -84,7 +97,7 @@ His researches focus on AI4science, geometric deep learning, and multi-modal lea
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2024</div><img src='images/knn_dta.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Exploiting Pre-trained Models for Drug Target Affinity Prediction with Nearest Neighbors](https://arxiv.org/abs/2407.15202) \\
+[Exploiting Pre-trained Models for Drug Target Affinity Prediction with Nearest Neighbors](https://dl.acm.org/doi/abs/10.1145/3627673.3679704) \\
 **Qizhi Pei**(co-first author), Lijun Wu, Zhenyu He, Jinhua Zhu, Yingce Xia, Shufang Xie, Rui Yan
 
 </div>
@@ -100,6 +113,16 @@ His researches focus on AI4science, geometric deep learning, and multi-modal lea
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/fabind_plus.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FABind+: Enhancing Molecular Docking through Improved Pocket Prediction and Pose Generation](https://arxiv.org/abs/2403.20261) \\
+Kaiyuan Gao, **Qizhi Pei**, Jinhua Zhu, Tao Qin, Kun He, Lijun Wu
+
+[**Project**](https://github.com/QizhiPei/FABind) \| [![](https://img.shields.io/github/stars/QizhiPei/FABind?style=social&label=Code+Stars)](https://github.com/QizhiPei/FABind)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications 2024</div><img src='images/tamgen.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -111,15 +134,6 @@ Kehan Wu, Yingce Xia, Pan Deng, Renhe Liu, Yuan Zhang, Han Guo, Yumeng Cui, **Qi
 </div>
 
 # 📝 Preprints
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/3d_molt5.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[3D-MolT5: Towards Unified 3D Molecule-Text Modeling with 3D Molecular Tokenization](https://arxiv.org/abs/2406.05797) \\
-**Qizhi Pei**, Lijun Wu, Kaiyuan Gao, Jinhua Zhu, Rui Yan
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/cmbl_survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -130,13 +144,13 @@ Kehan Wu, Yingce Xia, Pan Deng, Renhe Liu, Yuan Zhang, Han Guo, Yumeng Cui, **Qi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/fabind_plus.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/mol_structok.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FABind+: Enhancing Molecular Docking through Improved Pocket Prediction and Pose Generation](https://arxiv.org/abs/2403.20261) \\
-Kaiyuan Gao, **Qizhi Pei**, Jinhua Zhu, Tao Qin, Kun He, Lijun Wu
+[Tokenizing 3D Molecule Structure with Quantized Spherical Coordinates](https://arxiv.org/abs/2412.01564) \\
+Kaiyuan Gao, Yusong Wang, Haoxiang Guan, Zun Wang, **Qizhi Pei**, John E. Hopcroft, Kun He, and Lijun Wu.
 
-[**Project**](https://github.com/QizhiPei/FABind) \| [![](https://img.shields.io/github/stars/QizhiPei/FABind?style=social&label=Code+Stars)](https://github.com/QizhiPei/FABind)
+[**Project**](https://github.com/KyGao/Mol-StrucTok) \| [![](https://img.shields.io/github/stars/KyGao/Mol-StrucTok?style=social&label=Code+Stars)](https://github.com/KyGao/Mol-StrucTok)
 </div>
 </div>
 
