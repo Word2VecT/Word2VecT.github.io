@@ -19,7 +19,9 @@ redirect_from:
 
 Qizhi Pei (裴启智 in Chinese) is currently a third year Ph.D. student at the [ALOHA group](https://aloha.show) of [Gaoling School of Artificial Intelligence (GSAI)](http://ai.ruc.edu.cn/) in [Renmin University of China (RUC)](https://www.ruc.edu.cn/), supervised by [Prof. Rui Yan](https://gsai.ruc.edu.cn/ruiyan). He got the B.S. degree from [School of Computer Science and Technology](https://cs.ustc.edu.cn/), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/) in 2022. He currently is an intern of [Shanghai Artificial Intelligent Laboratory](https://www.shlab.org.cn/), mentored by [Dr. Lijun Wu](https://apeterswu.github.io/). He is also a member of [AI4Science Research Project](https://ai4sci-research.github.io).
 
-His researches focus on AI4science, multi-modal learning for molecule, and data synthesis for NLP.
+His researches focus on 
+* AI4science, like scientific foundation model and biomolecule interaction
+* LLMs, like mathematcal reasoning and data synthesis
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat. -->
 
@@ -44,7 +46,7 @@ His researches focus on AI4science, multi-modal learning for molecule, and data 
 - *2023.10*: &nbsp;🎉🎉 [SSM-DTA](https://doi.org/10.1093/bib/bbad386) is accepted by Briefings in Bioinformatics 2023. Thanks for all collaborators!
 - *2023.09*: &nbsp;🎉🎉 [FABind](https://arxiv.org/pdf/2310.06763.pdf) is accepted by NeurIPS 2023. Thanks for all collaborators!
 
-# 📝 Publications
+# 📝 AI4Science
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/3d_molt5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -113,7 +115,7 @@ His researches focus on AI4science, multi-modal learning for molecule, and data 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/fabind_plus.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2024</div><img src='images/fabind_plus.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [FABind+: Enhancing Molecular Docking through Improved Pocket Prediction and Pose Generation](https://arxiv.org/abs/2403.20261) \\
@@ -133,7 +135,6 @@ Kehan Wu, Yingce Xia, Pan Deng, Renhe Liu, Yuan Zhang, Han Guo, Yumeng Cui, **Qi
 </div>
 </div>
 
-# 📝 Preprints
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/cmbl_survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -153,6 +154,60 @@ Kaiyuan Gao, Yusong Wang, Haoxiang Guan, Zun Wang, **Qizhi Pei**, John E. Hopcro
 [**Project**](https://github.com/KyGao/Mol-StrucTok) \| [![](https://img.shields.io/github/stars/KyGao/Mol-StrucTok?style=social&label=Code+Stars)](https://github.com/KyGao/Mol-StrucTok)
 </div>
 </div>
+
+# 📝 LLMs
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/mathfusion.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MathFusion: Enhancing Mathematic Problem-solving of LLM through Instruction Fusion](https://arxiv.org/abs/2503.16212) \\
+**Qizhi Pei**, Lijun Wu, Zhuoshi Pan, Yu Li, Honglin Lin, Chenlin Ming, Xin Gao, Conghui He, Rui Yan
+
+[**Project**](https://github.com/QizhiPei/mathfusion) \| [![](https://img.shields.io/github/stars/QizhiPei/mathfusion?style=social&label=Code+Stars)](https://github.com/QizhiPei/mathfusion)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/gra.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Strategic Coordination Framework of Small LLMs Matches Large LLMs in Data Synthesis](https://arxiv.org/abs/2504.12322) \\
+Xin Gao, **Qizhi Pei**, Zinan Tang, Yu Li, Honglin Lin, Jiang Wu, Lijun Wu, Conghui He
+
+[**Project**](https://github.com/GX-XinGao/GRA) \| [![](https://img.shields.io/github/stars/GX-XinGao/GRA?style=social&label=Code+Stars)](https://github.com/GX-XinGao/GRA)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/cipherbank.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CipherBank: Exploring the Boundary of LLM Reasoning Capabilities through Cryptography Challenges](https://arxiv.org/abs/your-paper-id) \\
+Yu Li, **Qizhi Pei**, Mengyuan Sun, Honglin Lin, Chenlin Ming, Xin Gao, Jiang Wu, Conghui He, Lijun Wu
+
+[**Project**](https://github.com/Goodman-liyu/CipherBank) \| [![](https://img.shields.io/github/stars/Goodman-liyu/CipherBank?style=social&label=Code+Stars)](https://github.com/Goodman-liyu/CipherBank)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/lemma.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LEMMA: Learning from Errors for MatheMatical Advancement in LLMs](https://arxiv.org/abs/2503.17439) \\
+Zhuoshi Pan, Yu Li, Honglin Lin, **Qizhi Pei**, Zinan Tang, Wei Wu, Chenlin Ming, H. Vicky Zhao, Conghui He, Lijun Wu
+
+[**Project**](https://github.com/pzs19/LEMMA) \| [![](https://img.shields.io/github/stars/pzs19/LEMMA?style=social&label=Code+Stars)](https://github.com/pzs19/LEMMA)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/metaladder.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MetaLadder: Ascending Mathematical Solution Quality via Analogical-Problem Reasoning Transfer](https://arxiv.org/abs/2503.14891) \\
+Honglin Lin, Zhuoshi Pan, Yu Li, **Qizhi Pei**, Xin Gao, Mengzhang Cai, Conghui He, Lijun Wu
+
+[**Project**](https://github.com/LHL3341/MetaLadder) \| [![](https://img.shields.io/github/stars/LHL3341/MetaLadder?style=social&label=Code+Stars)](https://github.com/LHL3341/MetaLadder)
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2023</div><img src='images/gpt_alter_survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
