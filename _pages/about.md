@@ -31,17 +31,15 @@ His researches focus on
 # 🔥 News
 - *2025.02*: &nbsp;🔥🔥 [NatureLM](https://arxiv.org/abs/2502.07527) is made public. See [project page](https://naturelm.github.io/) for more information.
 - *2025.01*: &nbsp;🎉🎉 [3D-MolT5](https://openreview.net/forum?id=eGqQyTAbXC) is accepted by ICLR 2025. Thanks for all collaborators!
-- *2024.12*: &nbsp;🔥🔥 [Mol-StrucTok](https://arxiv.org/abs/2412.01564) is submitted to Arxiv.
+- *2024.12*: &nbsp;🔥🔥 We propose [Mol-StrucTok](https://arxiv.org/abs/2412.01564).
 - *2024.11*: &nbsp;🎉🎉 [FABind+](https://arxiv.org/abs/2403.20261) is accepted by KDD 2025. Congrats to Kaiyuan!
 - *2024.07*: &nbsp;🎉🎉 The enhanced version of BioT5+ achieves remarkable results in [Language + Molecule @ ACL2024 Workshop/Competition](https://language-plus-molecules.github.io/#leaderboard): 
   - 🥇 1st Place in the Text-based Molecule Generation Track.
   - 🥈 2nd Place in the Molecular Captioning Track.
   - 🎤 [Oral presentation](https://openreview.net/forum?id=Fib0IJt8YW) in the workshop.
 - *2024.07*: &nbsp;🎉🎉 [kNN-DTA](https://dl.acm.org/doi/abs/10.1145/3627673.3679704) is accepted by CIKM 2024. Thanks for all collaborators!
-- *2024.06*: &nbsp; [3D-MolT5](https://arxiv.org/abs/2406.05797) is submitted to Arxiv.
 - *2024.05*: &nbsp;🎉🎉 [BioT5+](https://arxiv.org/abs/2402.17810) is accepted by ACL 2024 (Findings). Thanks for all collaborators!
-- *2024.03*: &nbsp; [FABind+](https://arxiv.org/abs/2403.20261) is submitted to Arxiv.
-- *2024.03*: &nbsp; A [survey](https://arxiv.org/abs/2403.01528) about cross-modal learning for biomolecule is submitted to Arxiv.
+- *2024.03*: &nbsp; We make a [survey](https://arxiv.org/abs/2403.01528) about cross-modal learning for biomolecule.
 - *2023.10*: &nbsp;🎉🎉 [BioT5](https://arxiv.org/abs/2310.07276) is accepted by EMNLP 2023. Thanks for all collaborators!
 - *2023.10*: &nbsp;🎉🎉 [SSM-DTA](https://doi.org/10.1093/bib/bbad386) is accepted by Briefings in Bioinformatics 2023. Thanks for all collaborators!
 - *2023.09*: &nbsp;🎉🎉 [FABind](https://arxiv.org/pdf/2310.06763.pdf) is accepted by NeurIPS 2023. Thanks for all collaborators!
