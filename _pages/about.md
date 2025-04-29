@@ -177,7 +177,7 @@ Xin Gao, **Qizhi Pei**, Zinan Tang, Yu Li, Honglin Lin, Jiang Wu, Lijun Wu, Cong
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/cipherbank.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CipherBank: Exploring the Boundary of LLM Reasoning Capabilities through Cryptography Challenges](https://arxiv.org/abs/your-paper-id) \\
+[CipherBank: Exploring the Boundary of LLM Reasoning Capabilities through Cryptography Challenges](https://arxiv.org/abs/2504.19093) \\
 Yu Li, **Qizhi Pei**, Mengyuan Sun, Honglin Lin, Chenlin Ming, Xin Gao, Jiang Wu, Conghui He, Lijun Wu
 
 [**Project**](https://github.com/Goodman-liyu/CipherBank) \| [![](https://img.shields.io/github/stars/Goodman-liyu/CipherBank?style=social&label=Code+Stars)](https://github.com/Goodman-liyu/CipherBank)
