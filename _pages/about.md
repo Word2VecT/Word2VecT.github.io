@@ -29,6 +29,7 @@ His researches focus on
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 [MathFusion](https://arxiv.org/abs/2503.16212) is accepted by ACL 2025 (main). Thanks for all collaborators!
 - *2025.02*: &nbsp;🔥🔥 [NatureLM](https://arxiv.org/abs/2502.07527) is made public. See [project page](https://naturelm.github.io/) for more information.
 - *2025.01*: &nbsp;🎉🎉 [3D-MolT5](https://openreview.net/forum?id=eGqQyTAbXC) is accepted by ICLR 2025. Thanks for all collaborators!
 - *2024.12*: &nbsp;🔥🔥 We propose [Mol-StrucTok](https://arxiv.org/abs/2412.01564).
@@ -154,17 +155,17 @@ Kaiyuan Gao, Yusong Wang, Haoxiang Guan, Zun Wang, **Qizhi Pei**, John E. Hopcro
 </div>
 
 # 📝 LLMs
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/mathfusion.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/mathfusion_res.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MathFusion: Enhancing Mathematic Problem-solving of LLM through Instruction Fusion](https://arxiv.org/abs/2503.16212) \\
 **Qizhi Pei**, Lijun Wu, Zhuoshi Pan, Yu Li, Honglin Lin, Chenlin Ming, Xin Gao, Conghui He, Rui Yan
 
-[**Project**](https://github.com/QizhiPei/mathfusion) \| [![](https://img.shields.io/github/stars/QizhiPei/mathfusion?style=social&label=Code+Stars)](https://github.com/QizhiPei/mathfusion)
+[**Project**](https://github.com/QizhiPei/mathfusion) \| [![](https://img.shields.io/github/stars/QizhiPei/mathfusion?style=social&label=Code+Stars)](https://github.com/QizhiPei/mathfusion) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Model)](https://huggingface.co/collections/QizhiPei/mathfusion-67d92b8e505635db1baf20bb) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Data)](https://huggingface.co/datasets/QizhiPei/MathFusionQA)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/gra.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/gra.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Strategic Coordination Framework of Small LLMs Matches Large LLMs in Data Synthesis](https://arxiv.org/abs/2504.12322) \\
@@ -174,7 +175,7 @@ Xin Gao, **Qizhi Pei**, Zinan Tang, Yu Li, Honglin Lin, Jiang Wu, Lijun Wu, Cong
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/cipherbank.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 (Findings)</div><img src='images/cipherbank.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CipherBank: Exploring the Boundary of LLM Reasoning Capabilities through Cryptography Challenges](https://arxiv.org/abs/2504.19093) \\
@@ -185,7 +186,7 @@ Yu Li, **Qizhi Pei**, Mengyuan Sun, Honglin Lin, Chenlin Ming, Xin Gao, Jiang Wu
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/lemma.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 (Findings)</div><img src='images/lemma.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LEMMA: Learning from Errors for MatheMatical Advancement in LLMs](https://arxiv.org/abs/2503.17439) \\
@@ -218,13 +219,13 @@ Kaiyuan Gao, Sunan He, Zhenyu He, Jiacheng Lin, **Qizhi Pei**, Jie Shao, Wei Zha
 </div>
 
 # 🎖 Honors and Awards
-- *2023* Doctoral Scholarship for Elite Innovative Talents of Renmin University of China (中国人民大学拔尖创新人才).
+- *2023*, Doctoral Scholarship for Elite Innovative Talents of Renmin University of China (中国人民大学拔尖创新人才).
 - *2022*, Excellent Graduation Thesis, USTC.
 - *2022*, Outstanding Undergraduate Awards, USTC.
 - *2018~2021*, Outstanding Student Scholarship, USTC.
 
 # 💬 Academic Service
-- Reviewer: NeurIPS, ACL, EMNLP, KDD
+- Reviewer: NeurIPS, ACL, EMNLP, KDD, ICLR
 
 # 📖 Educations
 - *2022.09 - Now*, Ph.D. student in the Gaoling School of Artificial Intelligence, Renmin University of China.
