@@ -17,9 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Qizhi Pei (裴启智 in Chinese) is currently a third year Ph.D. student at the [ALOHA group](https://aloha.show) of [Gaoling School of Artificial Intelligence (GSAI)](http://ai.ruc.edu.cn/) in [Renmin University of China (RUC)](https://www.ruc.edu.cn/), supervised by [Prof. Rui Yan](https://gsai.ruc.edu.cn/ruiyan). He got the B.S. degree from [School of Computer Science and Technology](https://cs.ustc.edu.cn/), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/) in 2022. He currently is an intern of [Shanghai Artificial Intelligent Laboratory](https://www.shlab.org.cn/), mentored by [Dr. Lijun Wu](https://apeterswu.github.io/). He is also a member of [AI4Science Research Project](https://ai4sci-research.github.io).
+Zinan Tang (唐梓楠 in Chinese) is currently a third year undergraduate student at [School of Computer Science (Pilot Software Engineering School)](https://scs.bupt.edu.cn/) in [Beijing University of Posts and Telecomunication (BUPT)](https://www.bupt.edu.cn/). He will get the B.S. degree from in 2026. He currently is an intern of [Peking University (PKU)](https://www.pku.edu.cn/), mentored by [Dr. Lijun Wu](https://apeterswu.github.io/) and an intern in Data-centric Machine Learning (DCML) group of [Center of Machine Learning Research](https://cmlr.pku.edu.cn/) at [Peking University (PKU)](https://www.pku.edu.cn/).
 
-His researches focus on 
+His researches focus on
+
 * AI4science, like scientific foundation model and biomolecule interaction
 * LLMs, like mathematcal reasoning and data synthesis
 
