@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Zinan Tang (唐梓楠 in Chinese) is currently a third year undergraduate student at [School of Computer Science (Pilot Software Engineering School)](https://scs.bupt.edu.cn/) in [Beijing University of Posts and Telecomunication (BUPT)](https://www.bupt.edu.cn/). He will get the B.S. degree from in 2026. He currently is an intern of [Peking University (PKU)](https://www.pku.edu.cn/), mentored by [Dr. Lijun Wu](https://apeterswu.github.io/) and an intern in Data-centric Machine Learning (DCML) group of [Center of Machine Learning Research](https://cmlr.pku.edu.cn/) at [Peking University (PKU)](https://www.pku.edu.cn/).
+Zinan Tang (唐梓楠 in Chinese) is currently a third year undergraduate student at [School of Computer Science (Pilot Software Engineering School)](https://scs.bupt.edu.cn/) in [Beijing University of Posts and Telecomunication (BUPT)](https://www.bupt.edu.cn/). He will get the B.S. degree in 2026. He currently is an intern of [Shanghai Artificial Intelligent Laboratory](https://www.shlab.org.cn/), mentored by [Dr. Lijun Wu](https://apeterswu.github.io/) and an intern in Data-centric Machine Learning (DCML) group of [Center of Machine Learning Research](https://cmlr.pku.edu.cn/) at [Peking University (PKU)](https://www.pku.edu.cn/), mentored by [Asst. Prof. Wentao Zhang](https://zwt233.github.io/).
 
 His researches focus on
 
