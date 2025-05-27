@@ -6,13 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Qizhi Pei"
-description              : "Qizhi Pei's Homepage"
-repository               : "QizhiPei/QizhiPei.github.io"
+title                    : "Zinan Tang"
+description              : "Zinan Tan's Homepage"
+repository               : "Word2VecT/Word2VecT.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      : "490618635" # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Qizhi Pei"
-  avatar           : "images/profile_pqz.png"
-  bio              : "Renmin University of China"
+  name             : "Zinan Tang"
+  avatar           : "images/profile_tzn.JPG"
+  bio              : "Beijing University of Posts and Telecommunications"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=sf3xGU8AAAAJ"
-  email            : "pqz1811@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Qizhi-Pei"
+  googlescholar    : "https://scholar.google.com/citations?user=J0BdRiMAAAAJ"
+  email            : "tangzinan@bupt.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Zinan-Tang-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "QizhiPei"
+  github           : "Word2VecT"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "qizhi-pei-680192218"
-  dblp             : "https://dblp.org/pid/322/9716.html"
-  orcid            : "https://orcid.org/0000-0002-7242-422X"
+  dblp             : "https://dblp.org/pid/74/833"
+  orcid            : "https://orcid.org/0009-0000-4990-3575"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
