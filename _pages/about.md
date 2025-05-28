@@ -43,9 +43,6 @@ Xin Gao, Qizhi Pei, **Zinan Tang**, Yu Li, Honglin Lin, Jiang Wu, Lijun Wu, Cong
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 (Findings)</div><img src='images/cipherbank.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 
 # 📝 Reasoning
 
