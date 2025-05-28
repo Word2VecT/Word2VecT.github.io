@@ -32,7 +32,7 @@ His research interests are on **AI/Large Language Model** (e.g., AI4data, data4A
 - *2025.05*: &nbsp;🎉🎉 [LEMMA](https://arxiv.org/abs/2503.17439) is accepted by ACL 2025 (Findings). Thanks for all collaborators!
 
 
-# 📝 Data
+# 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/gra.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -43,9 +43,6 @@ Xin Gao, Qizhi Pei, **Zinan Tang**, Yu Li, Honglin Lin, Jiang Wu, Lijun Wu, Cong
 [**Project**](https://github.com/GX-XinGao/GRA) \| [![](https://img.shields.io/github/stars/GX-XinGao/GRA?style=social&label=Code+Stars)](https://github.com/GX-XinGao/GRA)
 </div>
 </div>
-
-
-# 📝 Reasoning
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 (Findings)</div><img src='images/lemma.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
