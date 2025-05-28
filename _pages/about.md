@@ -27,7 +27,7 @@ His research interests are on **AI/Large Language Model** (e.g., AI4data, data4A
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 MTRbench(fka Big Escape Benchmark) is accepted by ACL 2025 (Workshop GEM). Thanks for all collaborators! The final version has been submitted to NeurIPS 2025, and the code will be released soon.
+- *2025.05*: &nbsp;🎉🎉 MTRbench(fka. Big Escape Benchmark) is accepted by ACL 2025 (Workshop GEM). Thanks for all collaborators! The final version has been submitted to NeurIPS 2025, and the code will be released soon.
 - *2025.05*: &nbsp;🎉🎉 [David's Slingshot](https://arxiv.org/abs/2504.12322) is accepted by ACL 2025 (main). Thanks for all collaborators!
 - *2025.05*: &nbsp;🎉🎉 [LEMMA](https://arxiv.org/abs/2503.17439) is accepted by ACL 2025 (findings). Thanks for all collaborators!
 
