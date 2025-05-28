@@ -27,6 +27,7 @@ His research interests are on **AI/Large Language Model** (e.g., AI4data, data4A
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 MTRbench(fka Big Escape Benchmark) is accepted by ACL 2025 (Workshop GEM). Thanks for all collaborators! The final version has been submitted to NeurIPS 2025, and the code will be released soon.
 - *2025.05*: &nbsp;🎉🎉 [David's Slingshot](https://arxiv.org/abs/2504.12322) is accepted by ACL 2025 (main). Thanks for all collaborators!
 - *2025.05*: &nbsp;🎉🎉 [LEMMA](https://arxiv.org/abs/2503.17439) is accepted by ACL 2025 (findings). Thanks for all collaborators!
 
@@ -73,3 +74,4 @@ Zhuoshi Pan, Yu Li, Honglin Lin, Qizhi Pei, **Zinan Tang**, Wei Wu, Chenlin Ming
 - *2025,03 - now*, [Peking University (PKU)](https://www.pku.edu.cn/), [Center of Machine Learning Research](https://cmlr.pku.edu.cn/), Data-centric Machine Learning (DCML) group, Beijing, China.
 - *2024.09 - now*, [Shanghai Artificial Intelligent Laboratory](https://www.shlab.org.cn/), [OpenDataLab](https://opendatalab.org.cn/), RAISE Group, Beijing, China
 - *2024.07 - 2024.08*, [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), [State Key Laboratory of Cognitive Intelligence](https://cogskl.iflytek.com/), [认知组](https://cogai.bdaa.pro/), Hefei, Anhui, China.
+- *2023.07 - 2024.06*, [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), [Department of Intelligent Science and Technology](https://ai.bupt.edu.cn/info/1053/2025.htm), Beijing, China.
