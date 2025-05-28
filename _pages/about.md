@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Zinan Tang (唐梓楠 in Chinese) is currently a third year undergraduate student at [School of Computer Science (Pilot Software Engineering School)](https://scs.bupt.edu.cn/) in [Beijing University of Posts and Telecomunication (BUPT)](https://www.bupt.edu.cn/). He will get the B.S. degree in 2026. He currently is an intern of [Shanghai Artificial Intelligent Laboratory](https://www.shlab.org.cn/), mentored by [Dr. Lijun Wu](https://apeterswu.github.io/) and an intern in Data-centric Machine Learning (DCML) group of [Center of Machine Learning Research](https://cmlr.pku.edu.cn/) at [Peking University (PKU)](https://www.pku.edu.cn/), mentored by [Asst. Prof. Wentao Zhang](https://zwt233.github.io/).
+Zinan Tang (唐梓楠 in Chinese) is currently a third year undergraduate student at [School of Computer Science (Pilot Software Engineering School)](https://scs.bupt.edu.cn/) in [Beijing University of Posts and Telecomunication (BUPT)](https://www.bupt.edu.cn/). He will get the B.S. degree in 2026. He currently is an intern of [Shanghai Artificial Intelligent Laboratory](https://www.shlab.org.cn/), mentored by [Dr. Lijun Wu](https://apeterswu.github.io/) and an intern in Data-centric Machine Learning (DCML) group of [Center of Machine Learning Research (CMLR)](https://cmlr.pku.edu.cn/) at [Peking University (PKU)](https://www.pku.edu.cn/), mentored by [Asst. Prof. Wentao Zhang](https://zwt233.github.io/).
 
 His research interests are on **AI/Large Language Model** (e.g., AI4data, data4AI, SFT, post-training, pre-training, reasoning). He also has interest on AI4Science.
 
@@ -71,7 +71,7 @@ Zhuoshi Pan, Yu Li, Honglin Lin, Qizhi Pei, **Zinan Tang**, Wei Wu, Chenlin Ming
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2025,03 - now*, [Peking University (PKU)](https://www.pku.edu.cn/), [Center of Machine Learning Research](https://cmlr.pku.edu.cn/), Data-centric Machine Learning (DCML) group, Beijing, China.
+- *2025,03 - now*, [PKU](https://www.pku.edu.cn/), [CMLR](https://cmlr.pku.edu.cn/), DCML group, Beijing, China.
 - *2024.09 - now*, [Shanghai Artificial Intelligent Laboratory](https://www.shlab.org.cn/), [OpenDataLab](https://opendatalab.org.cn/), RAISE Group, Beijing, China
-- *2024.07 - 2024.08*, [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), [State Key Laboratory of Cognitive Intelligence](https://cogskl.iflytek.com/), [认知组](https://cogai.bdaa.pro/), Hefei, Anhui, China.
-- *2023.07 - 2024.06*, [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), [Department of Intelligent Science and Technology](https://ai.bupt.edu.cn/info/1053/2025.htm), Beijing, China.
+- *2024.07 - 2024.08*, [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), [State Key Laboratory of Cognitive Intelligence](https://cogskl.iflytek.com/), [COGAI Group](https://cogai.bdaa.pro/), Hefei, Anhui, China.
+- *2023.07 - 2024.06*, [BUPT](https://www.bupt.edu.cn/), [Department of Intelligent Science and Technology](https://ai.bupt.edu.cn/info/1053/2025.htm), Beijing, China.
