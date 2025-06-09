@@ -61,7 +61,7 @@ Zhuoshi Pan, Yu Li, Honglin Lin, Qizhi Pei, **Zinan Tang**, Wei Wu, Chenlin Ming
 
 
 # 📖 Educations
-- *2022.09 - now*, undergraduate student in SCS, BUPT.
+- *2022.09 - now*, undergraduate student in SCS, BUPT, major in CS.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
