@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zinan Tang"
-description              : "Zinan Tan's Homepage"
+description              : "tangzinan#bupt.edu.cn"
 repository               : "Word2VecT/Word2VecT.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  : "codeva-70nDoAei9p" # get baidu_site_verification fro
 author:
   name             : "Zinan Tang"
   avatar           : "images/profile_tzn.JPG"
-  bio              : "Beijing University of Posts and Telecommunications\ntangzinan#bupt.edu.cn"
+  bio              : "Beijing University of Posts and Telecommunications"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
