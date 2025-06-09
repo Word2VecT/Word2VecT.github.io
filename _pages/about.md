@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Zinan Tang (唐梓楠 in Chinese) is currently a third year undergraduate student at [School of Computer Science (Pilot Software Engineering School)](https://scs.bupt.edu.cn/) in [Beijing University of Posts and Telecomunication (BUPT)](https://www.bupt.edu.cn/). He will get the B.S. degree in 2026. He currently is an intern of [Shanghai Artificial Intelligent Laboratory](https://www.shlab.org.cn/), mentored by [Dr. Lijun Wu](https://apeterswu.github.io/) and an intern in Data-centric Machine Learning (DCML) group of [Center of Machine Learning Research (CMLR)](https://cmlr.pku.edu.cn/) at [Peking University (PKU)](https://www.pku.edu.cn/), mentored by [Asst. Prof. Wentao Zhang](https://zwt233.github.io/).
+Zinan Tang (唐梓楠 in Chinese) is currently a third year undergraduate student at [School of Computer Science (SCS, which is Pilot Software Engineering School)](https://scs.bupt.edu.cn/) in [Beijing University of Posts and Telecomunication (BUPT)](https://www.bupt.edu.cn/). He will get the B.S. degree in 2026, with a major in Computer Science (CS). He currently is an intern of [Shanghai Artificial Intelligent Laboratory](https://www.shlab.org.cn/), mentored by [Dr. Lijun Wu](https://apeterswu.github.io/) and an intern in Data-centric Machine Learning (DCML) group of [Center of Machine Learning Research (CMLR)](https://cmlr.pku.edu.cn/) at [Peking University (PKU)](https://www.pku.edu.cn/), mentored by [Asst. Prof. Wentao Zhang](https://zwt233.github.io/).
 
 His research interests are on **AI/Large Language Model** (e.g., AI4data, data4AI, SFT, post-training, pre-training, reasoning). He also has interest on AI4Science.
 
@@ -27,7 +27,7 @@ His research interests are on **AI/Large Language Model** (e.g., AI4data, data4A
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 MTRbench(fka. Big Escape Benchmark) is accepted by ACL 2025 (Workshop GEM). Thanks for all collaborators! The final version has been submitted to NeurIPS 2025, and the code will be released soon.
+- *2025.05*: &nbsp;🎉🎉 MTRbench(fka. Big Escape Benchmark) is accepted by ACL 2025 (Workshop GEM2). Thanks for all collaborators! The final version has been submitted to NeurIPS 2025, and the code will be released soon.
 - *2025.05*: &nbsp;🎉🎉 [David's Slingshot](https://arxiv.org/abs/2504.12322) is accepted by ACL 2025 (Main). Thanks for all collaborators!
 - *2025.05*: &nbsp;🎉🎉 [LEMMA](https://arxiv.org/abs/2503.17439) is accepted by ACL 2025 (Findings). Thanks for all collaborators!
 
@@ -61,7 +61,7 @@ Zhuoshi Pan, Yu Li, Honglin Lin, Qizhi Pei, **Zinan Tang**, Wei Wu, Chenlin Ming
 
 
 # 📖 Educations
-- *2022.09 - now*, undergraduate student in the School of Computer Science (Pilot Software Engineering School), Beijing University of Posts and Telecomunication.
+- *2022.09 - now*, undergraduate student in SCS, BUPT.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
