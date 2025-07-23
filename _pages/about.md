@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% assign gsDataBaseUrl = "<https://cdn.jsdelivr.net/gh/>" | append: site.repository | append: "@" %}
 {% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% assign gsDataBaseUrl = "<https://raw.githubusercontent.com/>" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
@@ -25,14 +25,24 @@ His research interests are on **AI/Large Language Model** (e.g., AI4data, data4A
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-
 # 🔥 News
+
+- *2025.07* &nbsp;🔥🔥 [REST](https://arxiv.org/abs/2507.10541) is released on ArXiv and submitted to NeurIPS 2025!
 - *2025.05*: &nbsp;🎉🎉 MTRbench(fka. Big Escape Benchmark) is accepted by ACL 2025 (Workshop GEM2). Thanks for all collaborators! The final version has been submitted to NeurIPS 2025, and the code will be released soon.
 - *2025.05*: &nbsp;🎉🎉 [David's Slingshot](https://arxiv.org/abs/2504.12322) is accepted by ACL 2025 (Main). Thanks for all collaborators!
 - *2025.05*: &nbsp;🎉🎉 [LEMMA](https://arxiv.org/abs/2503.17439) is accepted by ACL 2025 (Findings). Thanks for all collaborators!
 
-
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/RESTv2.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[REST: Stress Testing Large Reasoning Models by Asking Multiple Problems at Once](https://arxiv.org/abs/2507.10541) \\
+Zhuoshi Pan, Qizhi Pei, Yu Li, Qiyao Sun, **Zinan Tang**, H. Vicky Zhao, Conghui He, Lijun Wu
+
+[**Project**](https://github.com/opendatalab/REST) \| [![](https://img.shields.io/github/stars/opendatalab/REST?style=social&label=Code+Stars)](https://github.com/opendatalab/REST)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/gra.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -54,13 +64,13 @@ Zhuoshi Pan, Yu Li, Honglin Lin, Qizhi Pei, **Zinan Tang**, Wei Wu, Chenlin Ming
 </div>
 </div>
 
-
 # 🎖 Honors and Awards
+
 - *2024*, Second Prize Scholarship, BUPT
 - *2023*, National Scholarship, Ministry of Education of the People's Republic of China
 
-
 # 📖 Educations
+
 - *2022.09 - now*, undergraduate student in SCS, BUPT, major in CS.
 
 <!-- # 💬 Invited Talks
@@ -68,6 +78,7 @@ Zhuoshi Pan, Yu Li, Honglin Lin, Qizhi Pei, **Zinan Tang**, Wei Wu, Chenlin Ming
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
+
 - *2025.03 - 2025.05*, [PKU](https://www.pku.edu.cn/), [CMLR](https://cmlr.pku.edu.cn/), DCML group, Beijing, China.
 - *2024.09 - now*, [Shanghai Artificial Intelligent Laboratory](https://www.shlab.org.cn/), [OpenDataLab](https://opendatalab.org.cn/), RAISE Group, Beijing, China
 - *2024.07 - 2024.08*, [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), [State Key Laboratory of Cognitive Intelligence](https://cogskl.iflytek.com/), [COGAI Group](https://cogai.bdaa.pro/), Hefei, Anhui, China.
