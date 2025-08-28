@@ -29,7 +29,7 @@ His research interests are on **AI/Large Language Model** (e.g., AI4data, data4A
 
 - *2025.08*: &nbsp;🎉🎉 Middo is accepted by EMNLP 2025 (Main) and got <font color=red>Oral Recommendation</font>. Thanks for all collaborators! The code will be released soon.
 - *2025.07*: &nbsp;🔥🔥 [REST](https://arxiv.org/abs/2507.10541) is released on ArXiv and submitted to NeurIPS 2025!
-- *2025.05*: &nbsp;🎉🎉 MTRbench(fka. [Big Escape Benchmark](https://aclanthology.org/2025.gem-1.42)) is accepted by ACL 2025 (Workshop $\text{GEM}^2$). Thanks for all collaborators! The final version has been submitted to NeurIPS 2025, and the code will be released soon.
+- *2025.05*: &nbsp;🎉🎉 MTRbench(fka. [Big Escape Benchmark](https://aclanthology.org/2025.gem-1.42)) is accepted by ACL 2025 (Workshop GEM$^2$). Thanks for all collaborators! The final version has been submitted to NeurIPS 2025, and the code will be released soon.
 - *2025.05*: &nbsp;🎉🎉 [David's Slingshot](https://arxiv.org/abs/2504.12322) is accepted by ACL 2025 (Main). Thanks for all collaborators!
 - *2025.05*: &nbsp;🎉🎉 [LEMMA](https://arxiv.org/abs/2503.17439) is accepted by ACL 2025 (Findings). Thanks for all collaborators!
 
@@ -44,6 +44,15 @@ Middo: Model-Informed Dynamic Data Optimization for Enhanced LLM Fine-Tuning via
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 (Workshop GEM$^2$)</div><img src='images/MTRbench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+MTRBench: A Multimodal Reasoning Benchmark from Reality Shows (fka. [Big Escape Benchmark: Evaluating Human-Like Reasoning in Language Models via Real-World Escape Room Challenges](https://aclanthology.org/2025.gem-1.42)) \\
+**Zinan Tang$^*$**, QiYao Sun$^*$, Zhuoshi Pan, Qizhi Pei, Xin Gao, Mengyuan Sun, Honglin Lin, Mengzhang Cai, Yu Li, Chenlin Ming, Jiang Wu, Conghui He, Lijun Wu
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/RESTv2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -51,15 +60,6 @@ Middo: Model-Informed Dynamic Data Optimization for Enhanced LLM Fine-Tuning via
 Zhuoshi Pan, Qizhi Pei, Yu Li, Qiyao Sun, **Zinan Tang**, H. Vicky Zhao, Conghui He, Lijun Wu
 
 [**Project**](https://github.com/opendatalab/REST) \| [![](https://img.shields.io/github/stars/opendatalab/REST?style=social&label=Code+Stars)](https://github.com/opendatalab/REST)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 (Workshop $\text{GEM}^2$)</div><img src='images/MTRbench.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-MTRBench: A Multimodal Reasoning Benchmark from Reality Shows (fka. [Big Escape Benchmark: Evaluating Human-Like Reasoning in Language Models via Real-World Escape Room Challenges](https://aclanthology.org/2025.gem-1.42)) \\
-**Zinan Tang$^*$**, QiYao Sun$^*$, Zhuoshi Pan, Qizhi Pei, Xin Gao, Mengyuan Sun, Honglin Lin, Mengzhang Cai, Yu Li, Chenlin Ming, Jiang Wu, Conghui He, Lijun Wu
-
 </div>
 </div>
 
