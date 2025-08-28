@@ -35,6 +35,8 @@ His research interests are on **AI/Large Language Model** (e.g., AI4data, data4A
 
 # 📝 Publications
 
+## (Co) First Author Papers
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 (Main, Oral Recommendation)</div><img src='images/Middo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -48,13 +50,15 @@ Middo: Model-Informed Dynamic Data Optimization for Enhanced LLM Fine-Tuning via
 <div class='paper-box-text' markdown="1">
 
 MTRBench: A Multimodal Reasoning Benchmark from Reality Shows (fka. [Big Escape Benchmark: Evaluating Human-Like Reasoning in Language Models via Real-World Escape Room Challenges](https://aclanthology.org/2025.gem-1.42)) \\
-**Zinan Tang$^*$**, QiYao Sun$^*$, Zhuoshi Pan, Qizhi Pei, Xin Gao, Mengyuan Sun, Honglin Lin, Mengzhang Cai, Yu Li, Chenlin Ming, Jiang Wu, Conghui He, Lijun Wu
+**Zinan Tang**, **QiYao Sun**, Zhuoshi Pan, Qizhi Pei, Xin Gao, Mengyuan Sun, Honglin Lin, Mengzhang Cai, Yu Li, Chenlin Ming, Jiang Wu, Conghui He, Lijun Wu
 
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/RESTv2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+## Participated Papers
 
 [REST: Stress Testing Large Reasoning Models by Asking Multiple Problems at Once](https://arxiv.org/abs/2507.10541) \\
 Zhuoshi Pan, Qizhi Pei, Yu Li, Qiyao Sun, **Zinan Tang**, H. Vicky Zhao, Conghui He, Lijun Wu
