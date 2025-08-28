@@ -46,7 +46,7 @@ Middo: Model-Informed Dynamic Data Optimization for Enhanced LLM Fine-Tuning via
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 (Workshop GEM$^2$)</div><img src='images/MTRbench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 (Workshop GEM$^2$)</div><img src='images/MTRBanch.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 MTRBench: A Multimodal Reasoning Benchmark from Reality Shows (fka. [Big Escape Benchmark: Evaluating Human-Like Reasoning in Language Models via Real-World Escape Room Challenges](https://aclanthology.org/2025.gem-1.42)) \\
