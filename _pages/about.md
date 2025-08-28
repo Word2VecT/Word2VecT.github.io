@@ -27,12 +27,22 @@ His research interests are on **AI/Large Language Model** (e.g., AI4data, data4A
 
 # 🔥 News
 
+- *2025.08*: &nbsp;🎉🎉 Middo is accepted by EMNLP 2025 (Main) and got <font color=red>Oral Recommendation</font>. Thanks for all collaborators! The code will be released soon.
 - *2025.07*: &nbsp;🔥🔥 [REST](https://arxiv.org/abs/2507.10541) is released on ArXiv and submitted to NeurIPS 2025!
-- *2025.05*: &nbsp;🎉🎉 MTRbench(fka. Big Escape Benchmark) is accepted by ACL 2025 (Workshop GEM2). Thanks for all collaborators! The final version has been submitted to NeurIPS 2025, and the code will be released soon.
+- *2025.05*: &nbsp;🎉🎉 MTRbench(fka. Big Escape Benchmark) is accepted by ACL 2025 (Workshop $\text{GEM}^2$). Thanks for all collaborators! The final version has been submitted to NeurIPS 2025, and the code will be released soon.
 - *2025.05*: &nbsp;🎉🎉 [David's Slingshot](https://arxiv.org/abs/2504.12322) is accepted by ACL 2025 (Main). Thanks for all collaborators!
 - *2025.05*: &nbsp;🎉🎉 [LEMMA](https://arxiv.org/abs/2503.17439) is accepted by ACL 2025 (Findings). Thanks for all collaborators!
 
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 (Main, Oral Recommendation)</div><img src='images/MTRbench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Middo: Model-Informed Dynamic Data Optimization for Enhanced LLM Fine-Tuning via Closed-Loop Learning \\
+**Zinan Tang**, Xin Gao, Zhuoshi Pan, Qizhi Pei, Mengzhang Cai, Jiang Wu, Conghui He, Lijun Wu
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/RESTv2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -44,7 +54,16 @@ Zhuoshi Pan, Qizhi Pei, Yu Li, Qiyao Sun, **Zinan Tang**, H. Vicky Zhao, Conghui
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/gra.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 (Workshop $\text{GEM}^2$)</div><img src='images/MTRbench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+MTRBench: A Multimodal Reasoning Benchmark from Reality Shows \\
+**Zinan Tang$^*$**, QiYao Sun$^*$, Zhuoshi Pan, Qizhi Pei, Xin Gao, Mengyuan Sun, Honglin Lin, Mengzhang Cai, Yu Li, Chenlin Ming, Jiang Wu, Conghui He, Lijun Wu
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 (Main)</div><img src='images/gra.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [David's Slingshot: A Strategic Coordination Framework of Small LLMs Matches Large LLMs in Data Synthesis](https://arxiv.org/abs/2504.12322) \\
