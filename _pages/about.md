@@ -35,7 +35,7 @@ His research interests are on **AI/Large Language Model** (e.g., AI4data, data4A
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 (Main, Oral Recommendation)</div><img src='images/MTRbench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 (Main, Oral Recommendation)</div><img src='images/Middo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Middo: Model-Informed Dynamic Data Optimization for Enhanced LLM Fine-Tuning via Closed-Loop Learning \\
