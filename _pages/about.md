@@ -27,7 +27,7 @@ His research interests are on **AI/Large Language Model** (e.g., AI4data, data4A
 
 # 🔥 News
 
-- *2025.08*: &nbsp;🎉🎉 Middo is accepted by EMNLP 2025 (Main) and got <font color=red>Oral Recommendation</font>. Thanks for all collaborators! The code will be released soon.
+- *2025.08*: &nbsp;🎉🎉 [Middo](https://arxiv.org/abs/2508.21589) is accepted by EMNLP 2025 (Main) and got <font color=red>Oral Recommendation</font>. Thanks for all collaborators! The code will be released soon.
 - *2025.07*: &nbsp;🔥🔥 [REST](https://arxiv.org/abs/2507.10541) is released on ArXiv and submitted to NeurIPS 2025!
 - *2025.05*: &nbsp;🎉🎉 MTRbench(fka. [Big Escape Benchmark](https://aclanthology.org/2025.gem-1.42)) is accepted by ACL 2025 (Workshop GEM$^2$). Thanks for all collaborators! The final version has been submitted to NeurIPS 2025, and the code will be released soon.
 - *2025.05*: &nbsp;🎉🎉 [David's Slingshot](https://arxiv.org/abs/2504.12322) is accepted by ACL 2025 (Main). Thanks for all collaborators!
@@ -40,7 +40,7 @@ His research interests are on **AI/Large Language Model** (e.g., AI4data, data4A
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 (Main, Oral Recommendation)</div><img src='images/Middo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Middo: Model-Informed Dynamic Data Optimization for Enhanced LLM Fine-Tuning via Closed-Loop Learning \\
+[Middo: Model-Informed Dynamic Data Optimization for Enhanced LLM Fine-Tuning via Closed-Loop Learning](https://arxiv.org/abs/2508.21589) \\
 **Zinan Tang**, Xin Gao, Zhuoshi Pan, Qizhi Pei, Mengzhang Cai, Jiang Wu, Conghui He, Lijun Wu
 
 </div>
@@ -102,7 +102,7 @@ Zhuoshi Pan, Yu Li, Honglin Lin, Qizhi Pei, **Zinan Tang**, Wei Wu, Chenlin Ming
 
 # 💻 Internships
 
-- *2025.03 - 2025.05*, [PKU](https://www.pku.edu.cn/), [CMLR](https://cmlr.pku.edu.cn/), DCML group, Beijing, China.
 - *2024.09 - now*, [Shanghai Artificial Intelligent Laboratory](https://www.shlab.org.cn/), [OpenDataLab](https://opendatalab.org.cn/), RAISE Group, Beijing, China
+- *2025.03 - 2025.05*, [PKU](https://www.pku.edu.cn/), [CMLR](https://cmlr.pku.edu.cn/), DCML group, Beijing, China.
 - *2024.07 - 2024.08*, [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), [State Key Laboratory of Cognitive Intelligence](https://cogskl.iflytek.com/), [COGAI Group](https://cogai.bdaa.pro/), Hefei, Anhui, China.
 - *2023.07 - 2024.06*, [BUPT](https://www.bupt.edu.cn/), [Department of Intelligent Science and Technology](https://ai.bupt.edu.cn/info/1053/2025.htm), Beijing, China.
