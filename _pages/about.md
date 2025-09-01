@@ -29,7 +29,7 @@ His research interests are on **AI/Large Language Model** (e.g., AI4data, data4A
 
 - *2025.08*: &nbsp;🎉🎉 [Middo](https://arxiv.org/abs/2508.21589) is accepted by EMNLP 2025 (Main) and got <font color=red>Oral Recommendation</font>. Thanks for all collaborators! The code will be released soon.
 - *2025.07*: &nbsp;🔥🔥 [REST](https://arxiv.org/abs/2507.10541) is released on ArXiv and submitted to NeurIPS 2025!
-- *2025.05*: &nbsp;🎉🎉 MTRbench(fka. [Big Escape Benchmark](https://aclanthology.org/2025.gem-1.42)) is accepted by ACL 2025 (Workshop GEM$^2$). Thanks for all collaborators! The final version has been submitted to NeurIPS 2025, and the code will be released soon.
+- *2025.05*: &nbsp;🎉🎉 MTRbench(fka. [Big Escape Benchmark](https://aclanthology.org/2025.gem-1.42)) is accepted by ACL 2025 (Workshop GEM$^2$). Thanks for all collaborators! The final version has been submitted to NeurIPS 2025 DB Track, and the code will be released soon.
 - *2025.05*: &nbsp;🎉🎉 [David's Slingshot](https://arxiv.org/abs/2504.12322) is accepted by ACL 2025 (Main). Thanks for all collaborators!
 - *2025.05*: &nbsp;🎉🎉 [LEMMA](https://arxiv.org/abs/2503.17439) is accepted by ACL 2025 (Findings). Thanks for all collaborators!
 
