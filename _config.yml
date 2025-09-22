@@ -25,7 +25,7 @@ author:
   avatar: "images/profile_tzn.JPG"
   bio: "Beijing University of Posts and Telecommunications"
   location: "Beijing, China"
-  employer: "Dr. Lijun Wu"
+  employer:
   pubmed:
   googlescholar: "https://scholar.google.com/citations?user=J0BdRiMAAAAJ"
   email: "tangzinan@bupt.edu.cn"
