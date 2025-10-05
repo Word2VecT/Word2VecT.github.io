@@ -60,7 +60,7 @@ MTRBench: A Multimodal Reasoning Benchmark from Reality Shows (fka. [Big Escape 
 [ScaleDiff: Scaling Difficult Problems for Advanced Mathematical Reasoning](https://arxiv.org/abs/2509.21070) \\
 Qizhi Pei, Zhuoshi Pan, Honglin Lin, Xin Gao, Yu Li, **Zinan Tang**, Conghui He, Rui Yan, Lijun Wu
 
-[**Project**](https://github.com/QizhiPei/ScaleDiff) \| [![](https://img.shields.io/github/stars/QizhiPei/ScaleDiff?style=social&label=Code+Stars)](https://arxiv.org/abs/2509.21070) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Data&Models)](https://huggingface.co/collections/QizhiPei/scalediff-68a71cc18839c1cc1471187e)
+[**Project**](https://github.com/QizhiPei/ScaleDiff) \| [![](https://img.shields.io/github/stars/QizhiPei/ScaleDiff?style=social&label=Code+Stars)](https://arxiv.org/abs/2509.21070) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/collections/QizhiPei/scalediff-68a71cc18839c1cc1471187e)
 </div>
 </div>
 
@@ -119,5 +119,3 @@ Zhuoshi Pan, Yu Li, Honglin Lin, Qizhi Pei, **Zinan Tang**, Wei Wu, Chenlin Ming
 # 🔗 Link exchange
 
 [Honglin Lin](https://lhl3341.github.io)、[Qizhi Pei](https://qizhipei.github.io)、[Zhuoshi Pan](https://pzs19.github.io)
-
-> In alphabetical order.
