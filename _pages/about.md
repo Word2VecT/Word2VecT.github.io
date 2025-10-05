@@ -40,7 +40,7 @@ His research interests are on **AI/Large Language Model** (e.g., AI4data, data4A
 [Middo: Model-Informed Dynamic Data Optimization for Enhanced LLM Fine-Tuning via Closed-Loop Learning](https://arxiv.org/abs/2508.21589) \\
 **Zinan Tang**, Xin Gao, Zhuoshi Pan, Qizhi Pei, Mengzhang Cai, Jiang Wu, Conghui He, Lijun Wu
 
-[**Project**](https://github.com/Word2VecT/Middo) \| [![](https://img.shields.io/github/stars/Word2VecT/Middo?style=social&label=Code+Stars)](https://github.com/Word2VecT/Middo) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Data&Models)](https://huggingface.co/collections/Word2Li/middo-68c27d3b42f79febf7f6312c)
+[**Project**](https://github.com/Word2VecT/Middo) \| [![](https://img.shields.io/github/stars/Word2VecT/Middo?style=social&label=Code+Stars)](https://github.com/Word2VecT/Middo) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/collections/Word2Li/middo-68c27d3b42f79febf7f6312c)
 </div>
 </div>
 
@@ -81,7 +81,7 @@ Zhuoshi Pan, Qizhi Pei, Yu Li, Qiyao Sun, **Zinan Tang**, H. Vicky Zhao, Conghui
 [David's Slingshot: A Strategic Coordination Framework of Small LLMs Matches Large LLMs in Data Synthesis](https://arxiv.org/abs/2504.12322) \\
 Xin Gao, Qizhi Pei, **Zinan Tang**, Yu Li, Honglin Lin, Jiang Wu, Lijun Wu, Conghui He
 
-[**Project**](https://github.com/GX-XinGao/GRA) \| [![](https://img.shields.io/github/stars/GX-XinGao/GRA?style=social&label=Code+Stars)](https://github.com/GX-XinGao/GRA) \| \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Data&Models)](https://huggingface.co/collections/GX-XinGao/gra-6801cba58ceb0074566cdb4e)
+[**Project**](https://github.com/GX-XinGao/GRA) \| [![](https://img.shields.io/github/stars/GX-XinGao/GRA?style=social&label=Code+Stars)](https://github.com/GX-XinGao/GRA) \| \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/collections/GX-XinGao/gra-6801cba58ceb0074566cdb4e)
 </div>
 </div>
 
@@ -91,7 +91,7 @@ Xin Gao, Qizhi Pei, **Zinan Tang**, Yu Li, Honglin Lin, Jiang Wu, Lijun Wu, Cong
 [LEMMA: Learning from Errors for MatheMatical Advancement in LLMs](https://arxiv.org/abs/2503.17439) \\
 Zhuoshi Pan, Yu Li, Honglin Lin, Qizhi Pei, **Zinan Tang**, Wei Wu, Chenlin Ming, H. Vicky Zhao, Conghui He, Lijun Wu
 
-[**Project**](https://github.com/pzs19/LEMMA) \| [![](https://img.shields.io/github/stars/pzs19/LEMMA?style=social&label=Code+Stars)](https://github.com/pzs19/LEMMA) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Data&Models)](https://huggingface.co/collections/panzs19/lemma-68620ced6bedc62fff843e43)
+[**Project**](https://github.com/pzs19/LEMMA) \| [![](https://img.shields.io/github/stars/pzs19/LEMMA?style=social&label=Code+Stars)](https://github.com/pzs19/LEMMA) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/collections/panzs19/lemma-68620ced6bedc62fff843e43)
 </div>
 </div>
 
@@ -118,6 +118,6 @@ Zhuoshi Pan, Yu Li, Honglin Lin, Qizhi Pei, **Zinan Tang**, Wei Wu, Chenlin Ming
 
 # 🔗 Link exchange
 
-> Alphabetical Order.
+[Honglin Lin](https://lhl3341.github.io)、[Qizhi Pei](https://qizhipei.github.io)、[Zhuoshi Pan](https://pzs19.github.io)
 
-[Qizhi Pei](https://qizhipei.github.io)、[Zhuoshi Pan](https://pzs19.github.io)
+> In alphabetical order.
