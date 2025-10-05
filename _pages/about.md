@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Zinan Tang (唐梓楠 in Chinese) is a senior undergraduate student majoring in Computer Science (CS) at the [School of Computer Science (Pilot Software Engineering School, SCS)](https://scs.bupt.edu.cn/), [Beijing University of Posts and Telecommunication (BUPT)](https://www.bupt.edu.cn/), expecting his B.S. degree in 2026. He has been admitted to the [Department of Automation (DA)](https://www.au.tsinghua.edu.cn) at [Tsinghua University](https://www.tsinghua.edu.cn), where he will pursue his master's degree in Big Data under the supervision of [Dr. Biqing Huang](https://www.au.tsinghua.edu.cn/info/1075/3209.htm). Currently, he is a research intern at [OpenDataLab](https://opendatalab.github.io/), [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), mentored by [Dr. Lijun Wu](https://apeterswu.github.io/).
+Zinan Tang (唐梓楠 in Chinese) is a senior undergraduate student majoring in Computer Science (CS) at the [School of Computer Science (Pilot Software Engineering School, SCS)](https://scs.bupt.edu.cn/), [Beijing University of Posts and Telecommunication (BUPT)](https://www.bupt.edu.cn/), expecting his B.S. degree in 2026. He has been admitted to the [Department of Automation (DA)](https://www.au.tsinghua.edu.cn) at [Tsinghua University (THU)](https://www.tsinghua.edu.cn), where he will pursue his master's degree in Big Data under the supervision of [Dr. Biqing Huang](https://www.au.tsinghua.edu.cn/info/1075/3209.htm). Currently, he is a research intern at [OpenDataLab](https://opendatalab.github.io/), [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), mentored by [Dr. Lijun Wu](https://apeterswu.github.io/).
 
 His research interests are on **AI/Large Language Model** (e.g., AI4data, data4AI, SFT, post-training, pre-training, reasoning).
 
@@ -49,7 +49,6 @@ His research interests are on **AI/Large Language Model** (e.g., AI4data, data4A
 
 MTRBench: A Multimodal Reasoning Benchmark from Reality Shows (fka. [Big Escape Benchmark: Evaluating Human-Like Reasoning in Language Models via Real-World Escape Room Challenges](https://aclanthology.org/2025.gem-1.42)) \\
 **Zinan Tang**, **QiYao Sun**, Zhuoshi Pan, Qizhi Pei, Xin Gao, Mengyuan Sun, Honglin Lin, Mengzhang Cai, Yu Li, Chenlin Ming, Jiang Wu, Conghui He, Lijun Wu
-
 </div>
 </div>
 
@@ -103,7 +102,8 @@ Zhuoshi Pan, Yu Li, Honglin Lin, Qizhi Pei, **Zinan Tang**, Wei Wu, Chenlin Ming
 
 # 📖 Educations
 
-- *2022.09 - now*, undergraduate student in SCS, BUPT, major in CS.
+- *2026.09 - 2028.06* (Expected), master's student in DA, THU, major in Big Data.
+- *2022.09 - 2026.06*, undergraduate student in SCS, BUPT, major in CS.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
