@@ -23,7 +23,7 @@ His research interests are on **AI/Large Language Model** (e.g., AI4data, data4A
 
 # 🔥 News
 
-- *2025.10*: 🔥🔥 [REST](https://arxiv.org/abs/2507.10541) is released on ArXiv!
+- *2025.09*: 🔥🔥 [ScaleDiff](https://arxiv.org/abs/2509.21070) is released on ArXiv!
 - *2025.08*: 🎉🎉 [Middo](https://arxiv.org/abs/2508.21589) is accepted by EMNLP 2025 (Main). Thanks for all collaborators!
 - *2025.07*: 🔥🔥 [REST](https://arxiv.org/abs/2507.10541) is released on ArXiv!
 - *2025.05*: 🎉🎉 MTRbench(fka. [Big Escape Benchmark](https://aclanthology.org/2025.gem-1.42)) is accepted by ACL 2025 (Workshop GEM$^2$). Thanks for all collaborators!
