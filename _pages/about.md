@@ -25,7 +25,7 @@ His research interests are on **Data-centric LLMs** (e.g., AI4data, data4AI, SFT
 
 - *2026.04*: 🔥🔥 [REST](https://arXiv.org/abs/2507.10541) is accepted by ACL 2026 (Main). Congrats to Zhuoshi Pan!
 - *2025.12*: 🔥🔥 The [technical report](https://arXiv.org/abs/2512.14051) of [OpenDataArena](https://opendataarena.github.io/) is released!
-- *2025.09*: 🔥🔥 [ScaleDiff](https://arXiv.org/abs/2509.21070) is released on arXiv!Ω
+- *2025.09*: 🔥🔥 [ScaleDiff](https://arXiv.org/abs/2509.21070) is released on arXiv!
 - *2025.08*: 🎉🎉 [Middo](https://arXiv.org/abs/2508.21589) is accepted by EMNLP 2025 (Main). Thanks for all collaborators!
 - *2025.05*: 🎉🎉 MTRbench(fka. [Big Escape Benchmark](https://aclanthology.org/2025.gem-1.42)) is accepted by ACL 2025 (Workshop GEM$^2$). Thanks for all collaborators!
 
