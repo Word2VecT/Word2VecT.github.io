@@ -17,16 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Zinan Tang (唐梓楠 in Chinese) is a senior undergraduate student majoring in Computer Science (CS) at the [School of Computer Science (Pilot Software Engineering School, SCS)](https://scs.bupt.edu.cn/), [Beijing University of Posts and Telecommunication (BUPT)](https://www.bupt.edu.cn/), expecting his B.S. degree in 2026. He has been admitted to the [Department of Automation (DA)](https://www.au.tsinghua.edu.cn) at [Tsinghua University (THU)](https://www.tsinghua.edu.cn), where he will pursue his master's degree in Big Data under the supervision of [Dr. Biqing Huang](https://www.au.tsinghua.edu.cn/info/1075/3209.htm). He currently is an intern of Ant Group.
+Zinan Tang (唐梓楠 in Chinese) is a senior undergraduate student majoring in Computer Science (CS) at the [School of Computer Science (Pilot Software Engineering School, SCS)](https://scs.bupt.edu.cn/), [Beijing University of Posts and Telecommunication (BUPT)](https://www.bupt.edu.cn/), expecting his B.S. degree in 2026. He has been admitted to the [Department of Automation (DA)](https://www.au.tsinghua.edu.cn) at [Tsinghua University (THU)](https://www.tsinghua.edu.cn), where he will pursue his master's degree in Big Data under the supervision of [Dr. Biqing Huang](https://www.au.tsinghua.edu.cn/info/1075/3209.htm). He currently is a RI of [Ant Group](https://www.antgroup.com), participating in training data optimization for the [Ant Ling AI Model Family](https://www.ant-ling.com).
 
 His research interests are on **Data-centric LLMs** (e.g., AI4data, data4AI, SFT, post-training, pre-training, reasoning).
 
 # 🔥 News
 
+- *2026.04*: 🔥🔥 [REST](https://arXiv.org/abs/2507.10541) is accepted by ACL 2026 (Main). Congrats to Zhuoshi Pan!
 - *2025.12*: 🔥🔥 The [technical report](https://arXiv.org/abs/2512.14051) of [OpenDataArena](https://opendataarena.github.io/) is released!
-- *2025.09*: 🔥🔥 [ScaleDiff](https://arXiv.org/abs/2509.21070) is released on arXiv!
+- *2025.09*: 🔥🔥 [ScaleDiff](https://arXiv.org/abs/2509.21070) is released on arXiv!Ω
 - *2025.08*: 🎉🎉 [Middo](https://arXiv.org/abs/2508.21589) is accepted by EMNLP 2025 (Main). Thanks for all collaborators!
-- *2025.07*: 🔥🔥 [REST](https://arXiv.org/abs/2507.10541) is released on arXiv!
 - *2025.05*: 🎉🎉 MTRbench(fka. [Big Escape Benchmark](https://aclanthology.org/2025.gem-1.42)) is accepted by ACL 2025 (Workshop GEM$^2$). Thanks for all collaborators!
 
 # 📝 Publications
@@ -65,6 +65,16 @@ Mengzhang Cai, Xin Gao, Yu Li, Honglin Lin, Zheng Liu, Zhuoshi Pan, Qizhi Pei, X
 
 ## 🤝 Co-authored Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 (Main)</div><img src='images/RESTv2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[REST: Stress Testing Large Reasoning Models by Asking Multiple Problems at Once](https://arXiv.org/abs/2507.10541) \\
+Zhuoshi Pan, Qizhi Pei, Yu Li, **Zinan Tang**, Qiyao Sun, H. Vicky Zhao, Conghui He, Lijun Wu
+
+[**Project**](https://github.com/opendatalab/REST) \| [![](https://img.shields.io/github/stars/opendatalab/REST?style=social&label=Code+Stars)](https://github.com/opendatalab/REST)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/scalediff.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -72,16 +82,6 @@ Mengzhang Cai, Xin Gao, Yu Li, Honglin Lin, Zheng Liu, Zhuoshi Pan, Qizhi Pei, X
 Qizhi Pei, Zhuoshi Pan, Honglin Lin, Xin Gao, Yu Li, **Zinan Tang**, Conghui He, Rui Yan, Lijun Wu
 
 [**Project**](https://github.com/QizhiPei/ScaleDiff) \| [![](https://img.shields.io/github/stars/QizhiPei/ScaleDiff?style=social&label=Code+Stars)](https://arXiv.org/abs/2509.21070) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/collections/QizhiPei/scalediff-68a71cc18839c1cc1471187e)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/RESTv2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[REST: Stress Testing Large Reasoning Models by Asking Multiple Problems at Once](https://arXiv.org/abs/2507.10541) \\
-Zhuoshi Pan, Qizhi Pei, Yu Li, Qiyao Sun, **Zinan Tang**, H. Vicky Zhao, Conghui He, Lijun Wu
-
-[**Project**](https://github.com/opendatalab/REST) \| [![](https://img.shields.io/github/stars/opendatalab/REST?style=social&label=Code+Stars)](https://github.com/opendatalab/REST)
 </div>
 </div>
 
@@ -122,7 +122,7 @@ Zhuoshi Pan, Yu Li, Honglin Lin, Qizhi Pei, **Zinan Tang**, Wei Wu, Chenlin Ming
 
 # 💻 Internships
 
-- *2025.12 - present*, Ant Group, Beijing, China
+- *2025.12 - present*, [Ant Group]((https://www.antgroup.com)), [Ant Ling AI Model Family](https://www.ant-ling.com), Beijing, China
 - *2024.09 - 2025.10*, [Shanghai Artificial Intelligent Laboratory](https://www.shlab.org.cn/), [OpenDataLab](https://opendatalab.org.cn/), RAISE, Beijing, China
 - *2024.07 - 2024.08*, [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), [State Key Laboratory of Cognitive Intelligence](https://cogskl.iflytek.com/), [COGAI](https://cogai.bdaa.pro/), Hefei, Anhui, China.
 - *2023.07 - 2024.06*, [BUPT](https://www.bupt.edu.cn/), [Department of Intelligent Science and Technology](https://ai.bupt.edu.cn/info/1053/2025.htm), Beijing, China.
