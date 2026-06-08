@@ -129,7 +129,7 @@ Zhuoshi Pan, Yu Li, Honglin Lin, Qizhi Pei, **Zinan Tang**, Wei Wu, Chenlin Ming
 
 # 💬 Academic Service
 
-- Reviewers: NeurIPS 2026
+- Reviewer: NeurIPS 2026
 
 # 🔗 Link Exchange
 
