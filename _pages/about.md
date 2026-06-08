@@ -127,6 +127,10 @@ Zhuoshi Pan, Yu Li, Honglin Lin, Qizhi Pei, **Zinan Tang**, Wei Wu, Chenlin Ming
 - *2024.07 - 2024.08*, [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), [State Key Laboratory of Cognitive Intelligence](https://cogskl.iflytek.com/), [COGAI](https://cogai.bdaa.pro/), Hefei, Anhui, China.
 - *2023.07 - 2024.06*, [BUPT](https://www.bupt.edu.cn/), [Department of Intelligent Science and Technology](https://ai.bupt.edu.cn/info/1053/2025.htm), Beijing, China.
 
+# 💬 Academic Service
+
+- Reviewers: NeurIPS 2026
+
 # 🔗 Link Exchange
 
 [Honglin Lin](https://lhl3341.github.io)、[Qizhi Pei](https://qizhipei.github.io)、[Xiaoyang Wang](gavinwxy.github.io)、[Yu Li](https://leey21.github.io)、[Zhuoshi Pan](https://pzs19.github.io)
